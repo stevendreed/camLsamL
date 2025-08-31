@@ -7,9 +7,13 @@ SAML (1, 1.1 and 2.0) is an XML-based[1] fit to the task of exchanging security 
 
 ## Repo goals
 o Centralize reference materials for SAML, including SAMLbinding and third-party summaries/tutorials
+
 o Flask applications to pass assertions between each other
+
 o a NoSQL db to store secured user information for testing
+
 o an implementation of SAML assertions and binds to authenticate a user between these flask applications
+
 
 ## Reference links
 [1] [Extensible Markup Language (XML) overview](https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction)
